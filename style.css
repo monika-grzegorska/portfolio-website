@@ -1,0 +1,29 @@
+.background{
+    background-image: url(background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.site-navigation ul {
+    list-style-type: none;
+    margin: 20px 5px 0 0;
+    padding: 5px;
+    background-color: transparent;
+}
+
+.site-navigation li:hover {
+    background-color: #b4b4b4;
+    color: black;
+}
+
+#active {
+    color: black;
+}
+
+.site-name{
+    opacity: .7;
+}
+
+.img-thumbnail{
+    opacity: .5;
+}
